@@ -1,1 +1,0 @@
-# Sanad-Therapist-Platform
