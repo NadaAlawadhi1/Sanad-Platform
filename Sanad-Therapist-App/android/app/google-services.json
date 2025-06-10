@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405373156108",
+    "project_id": "sanad-f5d6d",
+    "storage_bucket": "sanad-f5d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405373156108:android:f4726c48b36f7fc08a2729",
+        "android_client_info": {
+          "package_name": "com.example.sanad_therapists"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8otmJwbMET3z0MRkGhhJXqqydIdCilF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
