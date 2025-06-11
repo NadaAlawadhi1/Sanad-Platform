@@ -16,6 +16,15 @@ Sanad empowers individuals to connect with licensed therapists from the comfort 
  <p align="center">
  <img src="Screen/0.0.png" width="110" alt=" Screenshot 1" /> </p>
 
+## 📸 Screenshots
+
+Screenshots for each app are available in their respective directories:
+
+- **User App:** [`Sanad-User-App/README.md`](./Sanad-User-App/README.md)
+- **Therapist App:** [`Sanad-Therapist-App/README.md`](./Sanad-Therapist-App/README.md)
+- **Admin Dashboard:** [`Sanad-Dashboard/README.md`](./Sanad-Dashboard/README.md)
+
+Each README includes UI screenshots and feature highlights specific to that app.
 
 ## 🚀 Features
 
@@ -39,15 +48,6 @@ Sanad empowers individuals to connect with licensed therapists from the comfort 
 - Authentication and role-based access control
 
 
-## 📸 Screenshots
-
-Screenshots for each app are available in their respective directories:
-
-- **User App:** [`Sanad-User-App/README.md`](./Sanad-User-App/README.md)
-- **Therapist App:** [`Sanad-Therapist-App/README.md`](./Sanad-Therapist-App/README.md)
-- **Admin Dashboard:** [`Sanad-Dashboard/README.md`](./Sanad-Dashboard/README.md)
-
-Each README includes UI screenshots and feature highlights specific to that app.
 
 
 Each contains UI previews showcasing the functionality and experience of that specific app.
