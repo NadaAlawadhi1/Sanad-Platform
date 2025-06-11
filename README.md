@@ -38,9 +38,6 @@ Sanad empowers individuals to connect with licensed therapists from the comfort 
 - Notifications for session updates, messages, and admin decisions
 - Authentication and role-based access control
 
-## 📸 Screenshots
-
-Screenshots for each app are available in their respective directories:
 
 ## 📸 Screenshots
 
