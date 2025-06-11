@@ -37,7 +37,7 @@ Sanad empowers individuals to connect with licensed therapists from the comfort 
 
 Screenshots for each app are available in their respective directories:
 
-- **User App:** [`Sanad-Platform/Sanad-User/README.md`](./user_app/README.md)
+- **User App:** [`Sanad-User-App/README.md`](./Sanad-User-App/README.md)
 - **Therapist App:** [`/therapist_app/README.md`](./therapist_app/README.md)
 - **Admin Dashboard:** [`/admin_dashboard/README.md`](./admin_dashboard/README.md)
 
